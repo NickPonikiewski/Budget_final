@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="BudgetDatabaseModelStoreContainer" CdmEntityContainer="BudgetDatabaseEntities">
+    <EntitySetMapping Name="Accounts">
+      <EntityTypeMapping TypeName="BudgetDatabaseModel.Account">
+        <MappingFragment StoreEntitySet="Account">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Name" ColumnName="Name" />
+          <ScalarProperty Name="Cash" ColumnName="Cash" />
+          <ScalarProperty Name="Credit_Cards" ColumnName="Credit Cards" />
+          <ScalarProperty Name="Bank" ColumnName="Bank" />
+          <ScalarProperty Name="investment" ColumnName="investment" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Expenses">
+      <EntityTypeMapping TypeName="BudgetDatabaseModel.Expens">
+        <MappingFragment StoreEntitySet="Expenses">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Name" ColumnName="Name" />
+          <ScalarProperty Name="household" ColumnName="household" />
+          <ScalarProperty Name="transport" ColumnName="transport" />
+          <ScalarProperty Name="finance" ColumnName="finance" />
+          <ScalarProperty Name="leisure" ColumnName="leisure" />
+          <ScalarProperty Name="regularBills" ColumnName="regularBills" />
+          <ScalarProperty Name="insurance" ColumnName="insurance" />
+          <ScalarProperty Name="children" ColumnName="children" />
+          <ScalarProperty Name="otherBills" ColumnName="otherBills" />
+          <ScalarProperty Name="totalExpenses" ColumnName="totalExpenses" />
+          <ScalarProperty Name="Month" ColumnName="Month" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Incomes">
+      <EntityTypeMapping TypeName="BudgetDatabaseModel.Income">
+        <MappingFragment StoreEntitySet="Income">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="netMonthIncome" ColumnName="netMonthIncome" />
+          <ScalarProperty Name="pension" ColumnName="pension" />
+          <ScalarProperty Name="savingsIncome" ColumnName="savingsIncome" />
+          <ScalarProperty Name="otherIncome" ColumnName="otherIncome" />
+          <ScalarProperty Name="totalIncome" ColumnName="totalIncome" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Transactions">
+      <EntityTypeMapping TypeName="BudgetDatabaseModel.Transaction">
+        <MappingFragment StoreEntitySet="Transaction">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Expenses" ColumnName="Expenses" />
+          <ScalarProperty Name="Date" ColumnName="Date" />
+          <ScalarProperty Name="Price" ColumnName="Price" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>
