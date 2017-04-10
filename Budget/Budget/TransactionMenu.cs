@@ -42,11 +42,5 @@ namespace Budget
 
         }
 
-        private void button1_Click(object sender, EventArgs e)
-        {
-            //TransactionAdd TA = new TransactionAdd();
-            //TA.LoadInfo(Name, ID);
-            //TA.ShowDialog();
-        }
     }
 }

@@ -12,6 +12,13 @@ namespace Budget
 {
     public partial class expensesDataGrid : Form
     {
+        public string Name;
+        public int ID;
+        internal void LoadInfo(string name, int id)
+        {
+            Name = name;
+            ID = id;
+        }
         public expensesDataGrid()
         {
             InitializeComponent();

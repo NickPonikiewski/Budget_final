@@ -16,3 +16,24 @@
 \\umd-home.umd.umich.edu\nponikie\private\my documents\visual studio 2015\Projects\Budget\Budget\obj\Debug\Budget.csproj.GenerateResource.Cache
 \\umd-home.umd.umich.edu\nponikie\private\my documents\visual studio 2015\Projects\Budget\Budget\obj\Debug\Budget.exe
 \\umd-home.umd.umich.edu\nponikie\private\my documents\visual studio 2015\Projects\Budget\Budget\obj\Debug\Budget.pdb
+\\umd-home.umd.umich.edu\nponikie\Private\My Documents\GitHub\Budget_final\Budget\Budget\bin\Debug\BudgetDatabase.mdf
+\\umd-home.umd.umich.edu\nponikie\Private\My Documents\GitHub\Budget_final\Budget\Budget\bin\Debug\BudgetDatabase_log.ldf
+\\umd-home.umd.umich.edu\nponikie\Private\My Documents\GitHub\Budget_final\Budget\Budget\bin\Debug\Budget.exe.config
+\\umd-home.umd.umich.edu\nponikie\Private\My Documents\GitHub\Budget_final\Budget\Budget\bin\Debug\Budget.exe
+\\umd-home.umd.umich.edu\nponikie\Private\My Documents\GitHub\Budget_final\Budget\Budget\bin\Debug\Budget.pdb
+\\umd-home.umd.umich.edu\nponikie\Private\My Documents\GitHub\Budget_final\Budget\Budget\bin\Debug\EntityFramework.dll
+\\umd-home.umd.umich.edu\nponikie\Private\My Documents\GitHub\Budget_final\Budget\Budget\bin\Debug\EntityFramework.SqlServer.dll
+\\umd-home.umd.umich.edu\nponikie\Private\My Documents\GitHub\Budget_final\Budget\Budget\bin\Debug\EntityFramework.xml
+\\umd-home.umd.umich.edu\nponikie\Private\My Documents\GitHub\Budget_final\Budget\Budget\bin\Debug\EntityFramework.SqlServer.xml
+\\umd-home.umd.umich.edu\nponikie\Private\My Documents\GitHub\Budget_final\Budget\Budget\obj\Debug\Budget.csprojResolveAssemblyReference.cache
+\\umd-home.umd.umich.edu\nponikie\Private\My Documents\GitHub\Budget_final\Budget\Budget\obj\Debug\Budget.expensesDataGrid.resources
+\\umd-home.umd.umich.edu\nponikie\Private\My Documents\GitHub\Budget_final\Budget\Budget\obj\Debug\Budget.incomeDataGrid.resources
+\\umd-home.umd.umich.edu\nponikie\Private\My Documents\GitHub\Budget_final\Budget\Budget\obj\Debug\Budget.LogIn.resources
+\\umd-home.umd.umich.edu\nponikie\Private\My Documents\GitHub\Budget_final\Budget\Budget\obj\Debug\Budget.MainMenu.resources
+\\umd-home.umd.umich.edu\nponikie\Private\My Documents\GitHub\Budget_final\Budget\Budget\obj\Debug\Budget.Properties.Resources.resources
+\\umd-home.umd.umich.edu\nponikie\Private\My Documents\GitHub\Budget_final\Budget\Budget\obj\Debug\Budget.TransactionAdd.resources
+\\umd-home.umd.umich.edu\nponikie\Private\My Documents\GitHub\Budget_final\Budget\Budget\obj\Debug\Budget.TransactionMenu.resources
+\\umd-home.umd.umich.edu\nponikie\Private\My Documents\GitHub\Budget_final\Budget\Budget\obj\Debug\Budget.userInterface.resources
+\\umd-home.umd.umich.edu\nponikie\Private\My Documents\GitHub\Budget_final\Budget\Budget\obj\Debug\Budget.csproj.GenerateResource.Cache
+\\umd-home.umd.umich.edu\nponikie\Private\My Documents\GitHub\Budget_final\Budget\Budget\obj\Debug\Budget.exe
+\\umd-home.umd.umich.edu\nponikie\Private\My Documents\GitHub\Budget_final\Budget\Budget\obj\Debug\Budget.pdb

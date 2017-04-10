@@ -33,7 +33,9 @@ namespace Budget
 
         private void Budgetbutton_Click(object sender, EventArgs e)
         {
-            //add here
+            userInterface UI = new userInterface();
+            UI.LoadInfo(Name, ID);
+            UI.ShowDialog();
         }
     }
 }
